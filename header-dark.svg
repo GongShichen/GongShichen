@@ -1,12 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
-<title id="title">Shichen Gong</title>
+<title id="title">GONG Shichen</title>
 <desc id="desc">Engineer and builder. AI agents, on-device runtimes, and developer tools.</desc>
+<defs><style>.static-tagline{display:none}
+.cursor-blink{animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+.signal-node{animation:glow 3s ease-in-out infinite}.n2{animation-delay:1s}.n3{animation-delay:2s}
+@keyframes glow{0%,100%{opacity:.4}50%{opacity:1}}
+.clip-0{animation:type-0 18s steps(19,end) infinite}
+@keyframes type-0{0%,0%{width:0}13%,28%{width:231.79999999999998px}33.332%,100%{width:0}}
+.clip-1{animation:type-1 18s steps(32,end) infinite}
+@keyframes type-1{0%,33.333%{width:0}46.333%,61.333%{width:390.4px}66.66499999999999%,100%{width:0}}
+.clip-2{animation:type-2 18s steps(25,end) infinite}
+@keyframes type-2{0%,66.666%{width:0}79.666%,94.666%{width:305px}99.99799999999999%,100%{width:0}}
+@media(prefers-reduced-motion:reduce){.animated-effects{display:none}.static-tagline{display:inline}.signal-node{animation:none}}</style><clipPath id="typing-0"><rect class="clip-0" x="48" y="128" width="0" height="32"/></clipPath><clipPath id="typing-1"><rect class="clip-1" x="48" y="128" width="0" height="32"/></clipPath><clipPath id="typing-2"><rect class="clip-2" x="48" y="128" width="0" height="32"/></clipPath></defs>
 <rect width="1200" height="230" rx="16" fill="#16141f"/>
 <path d="M0 225H1200" stroke="#b99af0" stroke-width="3" opacity=".4"/>
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
 <text x="48" y="46" fill="#b99af0" font-size="12" font-weight="700" letter-spacing="3">ENGINEER / BUILDER</text>
-<text x="45" y="112" fill="#f0ecff" font-size="56" font-weight="700" letter-spacing="-2">Shichen Gong</text>
-<text x="48" y="151" fill="#b1a8ca" font-size="20">AI agents, on-device runtimes, and developer tools.</text>
+<text x="45" y="112" fill="#f0ecff" font-size="56" font-weight="700" letter-spacing="-2">GONG Shichen</text>
+<text class="static-tagline" x="48" y="151" fill="#b1a8ca" font-size="20">AI agents, on-device runtimes, and developer tools.</text>
+<g class="animated-effects" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="20" fill="#b1a8ca">
+<text x="48" y="151" clip-path="url(#typing-0)">Building AI agents.</text>
+<g opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.32;.333;1" dur="18s" begin="0s" repeatCount="indefinite"/>
+<rect class="cursor-blink" x="48" y="134" width="2" height="20" fill="#b99af0"><animate attributeName="x" values="48;279.79999999999995;279.79999999999995;48;48" keyTimes="0;.13;.28;.333;1" dur="18s" begin="0s" repeatCount="indefinite"/></rect></g>
+<text x="48" y="151" clip-path="url(#typing-1)">Bringing intelligence on-device.</text>
+<g opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.32;.333;1" dur="18s" begin="6s" repeatCount="indefinite"/>
+<rect class="cursor-blink" x="48" y="134" width="2" height="20" fill="#b99af0"><animate attributeName="x" values="48;438.4;438.4;48;48" keyTimes="0;.13;.28;.333;1" dur="18s" begin="6s" repeatCount="indefinite"/></rect></g>
+<text x="48" y="151" clip-path="url(#typing-2)">Crafting developer tools.</text>
+<g opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.32;.333;1" dur="18s" begin="12s" repeatCount="indefinite"/>
+<rect class="cursor-blink" x="48" y="134" width="2" height="20" fill="#b99af0"><animate attributeName="x" values="48;353;353;48;48" keyTimes="0;.13;.28;.333;1" dur="18s" begin="12s" repeatCount="indefinite"/></rect></g></g>
 <text x="48" y="197" fill="#b1a8ca" font-size="12" letter-spacing="2">BUILD WITH CURIOSITY. SHIP WITH CARE.</text>
 </g>
 <g fill="none" stroke="#443457" stroke-width="2">
@@ -23,7 +45,8 @@
 <rect x="979" y="141" width="48" height="48" rx="12"/>
 </g>
 <g fill="#b99af0">
-<circle cx="1003" cy="67" r="5"/><circle cx="1003" cy="116" r="5"/><circle cx="1003" cy="165" r="5"/>
+<circle class="signal-node" cx="1003" cy="67" r="5"/><circle class="signal-node n2" cx="1003" cy="116" r="5"/><circle class="signal-node n3" cx="1003" cy="165" r="5"/>
 <circle cx="1080" cy="67" r="3" opacity=".55"/><circle cx="1107" cy="116" r="3" opacity=".55"/><circle cx="1080" cy="165" r="3" opacity=".55"/>
 </g>
+<g class="animated-effects" fill="#b99af0"><circle r="3" opacity="0"><animateMotion path="M870 116H911Q932 116 932 94V67H1003" dur="3.6s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></circle><circle r="3" opacity="0"><animateMotion path="M870 116H1003" dur="3.6s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle><circle r="3" opacity="0"><animateMotion path="M870 116H911Q932 116 932 138V165H1003" dur="3.6s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle></g>
 </svg>
