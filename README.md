@@ -5,8 +5,17 @@
 
 I build tools that bring AI into everyday development — from terminal agents to on-device runtimes.
 
-**Work** &nbsp; Wireless Development Engineer @ **Taobao & Tmall Group**  
-**Education** &nbsp; B.Eng., **Chongqing University**
+**Education**
+
+- **City University of Hong Kong** — MSc Computer and Information Engineering<br>
+  Sep 2026 – Present
+- **Chongqing University** — B.Eng.<br>
+  Sep 2020 – Jun 2024
+
+**Experience**
+
+- **Taobao & Tmall Group** — Wireless Development Engineer<br>
+  Jul 2024 – Jun 2026
 
 **Working with** &nbsp; `Go` · `Java` · `Swift` · `Objective-C` · `TypeScript` · `C/C++`
 
